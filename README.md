@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bhuvesh
 
-<!--
-**Bhuveshtyagi/bhuveshtyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building strong fundamentals in programming, problem solving, and modern software systems. My interests lie in software engineering, artificial intelligence, and creating efficient technology solutions. I aim to continuously improve my technical depth while working toward building impactful and scalable products.
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* React
+* R
+* HTML
+* CSS
+* JS
+
+## Tools & Technologies
+
+* Git & GitHub
+* VS Code
+* Linux
+* Developer productivity and AI tools
+
+## Areas of Interest
+
+* Data Structures & Algorithms
+* Software Engineering
+* Artificial Intelligence & Machine Learning
+* Automation and system building
+
+## Goals
+
+* Master core computer science fundamentals
+* Build high-quality software and meaningful projects
+* Continuously learn new technologies and improve problem-solving ability
+* Contribute to impactful technology and scalable systems
+
+## Reach Me
+
+* GitHub: https://github.com/bhuveshtyagi
+* Email: [bhuveshxtyagi@gmail.com](mailto:bhuveshxtyagi@gmail.com)
