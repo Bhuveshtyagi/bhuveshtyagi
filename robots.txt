@@ -1,0 +1,7 @@
+# Robots.txt for bhuvesh.in
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /sitemap.xml
+
+Sitemap: https://bhuvesh.in/sitemap.xml
