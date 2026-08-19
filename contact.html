@@ -696,6 +696,22 @@
     }
 
     @media (max-width: 768px) {
+      html {
+        font-size: 12px;
+      }
+
+      .container {
+        padding: 0 1.5rem;
+      }
+
+      .page-header {
+        padding: 8.5rem 0 3.5rem;
+      }
+
+      .page-title {
+        font-size: clamp(2rem, 5vw, 2.85rem);
+      }
+
       .nav-links, .nav-cta-btn {
         display: none;
       }
@@ -706,7 +722,10 @@
         display: flex;
       }
       .contact-form-col {
-        padding: 2.5rem 1.5rem;
+        padding: 2rem 1.5rem;
+      }
+      .footer {
+        padding: 3.75rem 0 2.25rem;
       }
       .footer-grid {
         grid-template-columns: 1fr;
